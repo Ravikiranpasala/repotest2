@@ -1,0 +1,1 @@
+#RosettaVersion=635302129729000367teststring1=String1TestString2=String2
