@@ -1,0 +1,4 @@
+#RosettaVersion=635328058064655800
+TestString1=String1
+TestString2=String2
+string3=333
