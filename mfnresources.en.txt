@@ -1,3 +1,1 @@
 teststring=string
-teststring1=string1
-teststring2=string2
